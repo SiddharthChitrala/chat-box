@@ -1,0 +1,32 @@
+.container {
+    background-color: #f0f0f0;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.scrollarea {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+
+input[type="text"] {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+
+button[type="submit"] {
+    border-radius: 0;
+}
+
+
+.username label {
+    color: #fff;
+}
+
+
+.list-group {
+    margin-bottom: 10px;
+}
